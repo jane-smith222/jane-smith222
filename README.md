@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jane-smith222
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Vue.js, a Javascript framework for frontend development
+- 💞️ I’m looking to collaborate on repositories having Vue.js
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love cooking
